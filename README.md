@@ -9,7 +9,7 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 
 - Detect user's alertness to avoid client from falling asleep.
 - Increases user's productivity and enhance workflow.
-- Implementation of embedded system programming with deep learning techniques
+- Implementation of embedded system programming with deep learning techniques.
 
 
 
@@ -18,7 +18,7 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 
 
 - Drowsiness detection.ipynb : main script for training and building the main model.
-- Eye detection/ipynb: script to run drowsiness detection application integrated with arduino
+- Eye detection/ipynb: script to run drowsiness detection application integrated with arduino.
 
 
 
