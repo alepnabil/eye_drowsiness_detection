@@ -17,10 +17,8 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 ## Component Description
 
 
-- Drowsiness detection.ipynb : main script for training and building the main model.
-- Eye detection/ipynb: script to run drowsiness detection application integrated with arduino.
-
-
+- Drowsiness detection.ipynb : script to run drowsiness detection application integrated with arduino.
+- Eye detection/ipynb: main script for training and building the main model.
 
 
   
