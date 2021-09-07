@@ -24,7 +24,7 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 
   
 ## Model flow diagram
-![flowchart drowsinees project](https://user-images.githubusercontent.com/65908522/132290694-2ad13c00-2b64-441b-961e-b8b27e6d1f9a.jpg)
+![flowchart drowsinees project (3) new](https://user-images.githubusercontent.com/65908522/132291787-5f5313ed-6583-435d-90c9-88d37c8c7c2d.jpg)
 
 
   
