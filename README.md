@@ -35,6 +35,7 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 !pip install keras
 !pip install cv2
 !pip install pyfirmata
+!pip install smtplib
 ```
 
   
