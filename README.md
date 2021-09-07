@@ -4,6 +4,9 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 
 
 
+
+
+
  
 ## Aim of project
 
@@ -11,9 +14,19 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 - Increases user's productivity and enhance workflow.
 - Implementation of embedded system programming with deep learning techniques.
 
+
+
+
+
+
+
 ## Demo
 
 ![eye_detection_gif](https://user-images.githubusercontent.com/65908522/132357559-495911da-ec85-4401-a5c2-2756bf9d1def.gif)
+
+
+
+
 
 
 
@@ -29,8 +42,17 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 
 
   
+  
+  
+  
 ## Model flow diagram
 ![flowchart drowsinees project (3) new new](https://user-images.githubusercontent.com/65908522/132291881-37350a7f-829b-4150-82fb-5f743de793d0.jpg)
+
+
+
+
+
+
 
 
   
@@ -43,6 +65,10 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 !pip install pyfirmata
 !pip install smtplib
 ```
+
+
+
+
 
   
 ## Libraries
@@ -59,6 +85,7 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 
 
 
+  
   
 ## Hardware
 
