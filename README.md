@@ -11,6 +11,13 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 - Increases user's productivity and enhance workflow.
 - Implementation of embedded system programming with deep learning techniques.
 
+## Demo
+
+![eye_detection_gif](https://user-images.githubusercontent.com/65908522/132357559-495911da-ec85-4401-a5c2-2756bf9d1def.gif)
+
+
+
+
 
 
   
