@@ -49,7 +49,7 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 - cv2
 - smtplib
 - pyfirmata
--
+
 
 
   
