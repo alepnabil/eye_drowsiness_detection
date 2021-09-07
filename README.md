@@ -62,7 +62,7 @@ This is a deep learning project to detect eye drowsiness using Convolutional Neu
 
 
 ## Circuit schematic
-
+![F3DDJQ4IAP6UGTG](https://user-images.githubusercontent.com/65908522/132291071-4b8b97a6-46d2-4c9e-95b4-e857e8e3f9ff.jpg)
 
 
   
